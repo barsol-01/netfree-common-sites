@@ -329,6 +329,10 @@
     
     עיריית אופקים
     http://www.ofaqim.muni.il/
+    
+    עיריית פתח תקווה
+    http://www.petah-tikva.muni.il/
+    http://www.petah-tikva.muni.il/SiteCollectionImages/favicon.ico
 
 %% עמותות
 
